@@ -1,0 +1,4 @@
+# The modules or folders that can be recreated should not be pushed to git
+/node_modules
+/dist
+.parcel-cache
